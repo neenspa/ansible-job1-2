@@ -1,0 +1,14 @@
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ansible-job1ì2
+  description: ansible-job2
+  annotations:
+    backstage.io/kubernetes-id: ansible-job1ì2
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: neenspa/ansible-job1ì2
+spec:
+  type: api
+  lifecycle: production
+  owner: amargheritini
